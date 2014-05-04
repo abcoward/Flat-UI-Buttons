@@ -20,6 +20,11 @@ Based on the framework by the guys over at Designmodo, I put together a lightwei
 <a href="#" class="btn btn-rnd btn-blue">This Is A Test</a>
 ```
 
+#### Outlined Button
+```html
+<a href="#" class="btn btn-outline">This Is A Test</a>
+```
+
 #### Small Button
 ```html
 <a href="#" class="btn btn-small btn-blue">This Is A Test</a>
