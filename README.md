@@ -25,3 +25,14 @@ Based on the framework by the guys over at Designmodo, I put together a lightwei
 <a href="#" class="btn btn-small btn-blue">This Is A Test</a>
 ```
 
+# List of Colors
+
++ Sea Green
++ Green
++ Blue
++ Navy
++ Yellow
++ Orange
++ White
++ Gray
+
