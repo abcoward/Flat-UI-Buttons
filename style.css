@@ -1,5 +1,10 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700);
 
+h2 {
+	font-family: 'Lato', sans-serif;
+	color: #575757;
+}
+
 .btn {
 	display: inline-block;
 	padding-top: 10px;
@@ -17,6 +22,23 @@
     -moz-transition: all ease-in-out .25s;
     -o-transition: all ease-in-out .25s;
     transition: all ease-in-out .25s;
+}
+
+.btn-rnd {
+	border-radius: 20px;
+}
+
+.btn-border {
+	border-bottom: 4px solid rgba(0, 0, 0, 0.2)
+}
+
+.btn-small {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 14px;
+	font-weight: 500;
 }
 
 /* SEA GREEN */
