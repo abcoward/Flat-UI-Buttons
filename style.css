@@ -61,6 +61,7 @@
 
 .btn-sea-green:hover {
 	background-color: #16a085;
+	color: #ecf0f1;
 }
 
 /* GREEN */
@@ -72,6 +73,7 @@
 
 .btn-green:hover {
 	background-color: #27ae60;
+	color: #ecf0f1;
 }
 
 /* BLUE */
@@ -83,6 +85,7 @@
 
 .btn-blue:hover {
 	background-color: #2980b9;
+	color: #ecf0f1;
 }
 
 /* PURPLE */
@@ -94,6 +97,7 @@
 
 .btn-purple:hover {
 	background-color: #8e44ad;
+	color: #ecf0f1;
 }
 
 /* NAVY */
@@ -105,6 +109,7 @@
 
 .btn-navy:hover {
 	background-color: #2c3e50;
+	color: #ecf0f1;
 }
 
 /* YELLOW */
@@ -116,6 +121,7 @@
 
 .btn-yellow:hover {
 	background-color: #f39c12;
+	color: #ecf0f1;
 }
 
 /* ORANGE */
@@ -127,6 +133,7 @@
 
 .btn-orange:hover {
 	background-color: #d35400;
+	color: #ecf0f1;
 }
 
 /* RED */
@@ -138,6 +145,7 @@
 
 .btn-red:hover {
 	background-color: #c0392b;
+	color: #ecf0f1;
 }
 
 /* WHITE */
@@ -161,4 +169,5 @@
 
 .btn-gray:hover {
 	background-color: #7f8c8d;
+	color: #ecf0f1;
 }
