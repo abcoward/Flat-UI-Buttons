@@ -3,6 +3,8 @@ Flat-UI-Buttons
 
 Based on the framework by the guys over at Designmodo, I put together a lightweight CSS file with simple, good looking buttons for any website. All the colors are from [flatuicolors.com](https://www.flatuicolors.com)
 
+[Demo](http://mackiser.github.io/Flat-UI-Buttons/)
+
 ## Usage
 
 #### Regular Button
