@@ -1,0 +1,157 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700);
+@import url(http://fonts.googleapis.com/css?family=Source+Code+Pro);
+
+::selection {
+	background: #bdc3c7;
+}
+
+::-moz-selection {
+	background: #bdc3c7;
+}
+
+a:active, a:visited, a:link {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+p {
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+  Helvetica, Arial, "Lucida Grande", sans-serif;
+  color: #282828;
+}
+
+h3 {
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+  Helvetica, Arial, "Lucida Grande", sans-serif;
+  color: #7f8c8d;
+}
+
+pre {
+	background-color: #bdc3c7;
+	border-radius: 5px;
+	width: 100%;
+	font-family: "Soure Code Pro", sans-serif;
+	color: #7f8c8d;
+	font-size: 18px;
+	margin: 20px;
+}
+
+.header {
+	width: 100%;
+	height: auto;
+	background-color: #fff;
+	padding-top: 50px;
+	padding-bottom: 15px;
+	border-top: 3px solid #3498db;
+}
+
+.header-title {
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+  Helvetica, Arial, "Lucida Grande", sans-serif;
+	color: #3498db;
+	font-weight: 300;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 5px;
+}
+
+.header-icon {
+	font-size: 70px;
+	color: #3498db;
+	text-align: center;
+	margin: 0px auto;
+}
+
+.header-text {
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+  Helvetica, Arial, "Lucida Grande", sans-serif;
+  color: #7f8c8d;
+  text-align: center;
+  font-size: 18px;
+}
+
+.title {
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+  Helvetica, Arial, "Lucida Grande", sans-serif;
+  color: #7f8c8d;
+  font-weight: 400;
+}
+
+.download-button {
+	display: inline-block;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	background-color: rgba(0,0,0,0);
+	border: 2px solid #3498db;
+	border-radius: 5px;
+	color: #3498db;
+	text-align: center;
+	font-size: 18px;
+	font-weight: 400;
+	transition: all .5s;
+	-webkit-transition: all .5s;
+	-moz-transition: all .5s;
+	-o-transition: all .5s;
+	margin: 5px;
+}
+
+.download-button:hover {
+	color: #ecf0f1;
+	background-color: #3498db;
+	text-decoration: none;
+}
+
+.github-button {
+	display: inline-block;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	background-color: rgba(0,0,0,0);
+	border: 2px solid #2ecc71;
+	border-radius: 5px;
+	color: #2ecc71;
+	text-align: center;
+	font-size: 18px;
+	font-weight: 400;
+	transition: all .5s;
+	-webkit-transition: all .5s;
+	-moz-transition: all .5s;
+	-o-transition: all .5s;
+	margin: 5px;
+}
+
+.github-button:hover {
+	color: #ecf0f1;
+	background-color: #2ecc71;
+	text-decoration: none;
+}
+
+.main-body {
+	background-color: #fff;
+}
+
+.footer {
+	width: 100%;
+	background-color: #303030;
+	padding: 50px;
+}
+
+.footer-text {
+	color: #ecf0f1;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+  Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-size: 16px;
+}
+
+.footer-icon {
+	color: #ecf0f1;
+	text-align: center;
+	font-weight: 300;
+	font-size: 75px;
+}
